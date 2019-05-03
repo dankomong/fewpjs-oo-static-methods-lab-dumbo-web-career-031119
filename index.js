@@ -25,4 +25,6 @@ class Formatter {
         }
       }
     }
+    return result.join(" ");
   }
+}
